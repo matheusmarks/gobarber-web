@@ -7,3 +7,11 @@
   <img alt="top language" src="https://img.shields.io/github/repo-size/matheusmarks/gobarber-web.svg" />
   <img alt="last commit" src="https://img.shields.io/github/last-commit/matheusmarks/gobarber-web.svg" />
 </p>
+
+<p align="center">
+ <a href="#how-it-works">Demostration</a> • 
+ <a href="#how-to-use">How to use</a> • 
+ <a href="#tecnologies">Tecnologies</a> • 
+</p>
+
+
