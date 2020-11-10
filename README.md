@@ -1,5 +1,5 @@
 <h1 align="center">Go Barber</h1>
-<h4 align="center">A fantastic and complete app to schedule your appointments on GoBarber barber shop !</h4>
+<h4 align="center">A fantastic and complete app to schedule your time on GoBarber barber shop !</h4>
 
 
 <p align="center">
